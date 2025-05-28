@@ -1,0 +1,8 @@
+ASL Board and Pointer Made by -Skullnut
+ASL Alphabet texture made by -Kimmely
+
+Make sure to Unpack the prefab and separate the pointer and board so they can be moved and scaled individually.
+Place the board and pointer in whichever hands you're comfortable with and follow the youtube guide below on how to setup the system.
+If you have any questions contact me on discord-- Skullnut#3842
+
+To setup the inventory system follow this video https://youtu.be/Hh6lddtgVRM
